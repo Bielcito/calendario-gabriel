@@ -1,0 +1,7 @@
+CREATE TABLE event (
+    id INTEGER AUTO_INCREMENT PRIMARY KEY,
+    month INTEGER NOT NULL,
+    year INTEGER NOT NULL,
+    day INTEGER NOT NULL,
+    info TEXT
+);

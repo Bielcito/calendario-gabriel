@@ -1,0 +1,14 @@
+span {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#createEvent {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    padding: 20px;
+    background-color: lightgray;
+}
